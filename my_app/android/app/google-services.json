@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431817380962",
+    "project_id": "flutter-login-64b75",
+    "storage_bucket": "flutter-login-64b75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431817380962:android:5543dd936de22f74962d3b",
+        "android_client_info": {
+          "package_name": "com.pictlonis.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9bTBmku2btocHOHv5b3P17oUU9kCUy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
